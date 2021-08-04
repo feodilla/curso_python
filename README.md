@@ -1,8 +1,9 @@
 # desafios curso_python
 Desafios do curso Python para Inovação Cívica
 
-DESAFIO MODULO 0:
-Conferir e corrigir código abaixo 
+- DESAFIO MÓDULO 0 (Resolvido usando o Google Colaboratory)
+
+TAREFA: Conferir e corrigir código abaixo 
 
 num1 = int(input('Digite o 1º número: '))
 
